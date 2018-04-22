@@ -8,10 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-```
-Node
-YouTube API
-```
+NodeJS - Get it [here](https://nodejs.org/en/)<br>
+YouTube API - Get it [here](https://console.developers.google.com)
+
 
 ### Installing
 
