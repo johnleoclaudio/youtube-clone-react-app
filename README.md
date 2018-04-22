@@ -10,18 +10,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 Node
+YouTube API
 ```
 
 ### Installing
 
-3 simple steps to run the app:
-
+Steps to run the app:
 ```
 clone or download
 ```
 Then
 ```
 npm install
+```
+Then
+```
+Create an .env file on your parent directory
+```
+Then
+```
+type inside the .env file 
+
+REACT_APP_API_KEY=your_youtube_api
 ```
 Lastly,
 ```
