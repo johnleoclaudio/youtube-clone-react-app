@@ -1,6 +1,6 @@
 # YouTube React app
 Simple YouTube video player made with React :heart:
-[Here's the what it looks like](https://johnleoclaudio.github.io/youtube-clone-react-app/)
+[Check it out!](https://johnleoclaudio.github.io/youtube-clone-react-app/)
 
 ## Getting Started
 
